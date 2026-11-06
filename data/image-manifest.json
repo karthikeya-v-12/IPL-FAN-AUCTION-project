@@ -1,0 +1,3289 @@
+{
+  "project": "IPL 2027 Fan-Made Auction — Candidate-Only Image Manifest",
+  "generatedDate": "2026-10-21",
+  "uniquePlayerCount": 182,
+  "directImageReferenceCount": 167,
+  "blankImageCount": 15,
+  "blankBreakdown": {
+    "photoLookupPending": 15
+  },
+  "note": "Candidate-only manifest for the 182-player fan-made probable IPL 2027 auction list. Direct images are assigned where candidate-specific photos were found; 15 candidates still need a direct match. James Coles image added from an SEC photo source. Current-squad-only players are excluded. Umran Malik image replaced with the exact user-supplied local image asset.",
+  "players": [
+    {
+      "playerName": "Aarya Desai",
+      "slug": "aarya-desai",
+      "targetAssetPath": "player-images/aarya-desai.webp",
+      "imageUrl": null,
+      "imageSourcePage": null,
+      "imageProvider": null,
+      "photoMatchStatus": "Photo lookup pending — no direct image URL verified yet",
+      "usageStatus": "No direct image assigned yet; photo lookup link retained. Uncapped status does not prevent image assignment.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Aarya%20Desai%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Aarya Desai — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "No direct, candidate-specific image URL verified yet. Use the photo lookup link; do not substitute a different player."
+    },
+    {
+      "playerName": "Aayush Pandey",
+      "slug": "aayush-pandey",
+      "targetAssetPath": "player-images/aayush-pandey.webp",
+      "imageUrl": null,
+      "imageSourcePage": null,
+      "imageProvider": null,
+      "photoMatchStatus": "Photo lookup pending — no direct image URL verified yet",
+      "usageStatus": "No direct image assigned yet; photo lookup link retained. Uncapped status does not prevent image assignment.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Aayush%20Pandey%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Aayush Pandey — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "No direct, candidate-specific image URL verified yet. Use the photo lookup link; do not substitute a different player."
+    },
+    {
+      "playerName": "Abhinav Manohar",
+      "slug": "abhinav-manohar",
+      "targetAssetPath": "player-images/abhinav-manohar.webp",
+      "imageUrl": "https://www.gujarattitansipl.com/static-assets/images/players/63715.png?v=6.36",
+      "imageSourcePage": "https://www.gujarattitansipl.com/",
+      "imageProvider": "Gujarat Titans",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Abhinav%20Manohar%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Abhinav Manohar — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Abhinav Tejrana",
+      "slug": "abhinav-tejrana",
+      "targetAssetPath": "player-images/abhinav-tejrana.webp",
+      "imageUrl": "https://www.wisden.com/static-assets/waf-images/f3/6a/30/1-1/ubd79Ut8hp.png?v=23.07&w=1024",
+      "imageSourcePage": "https://www.wisden.com/",
+      "imageProvider": "Wisden",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Abhinav%20Tejrana%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Abhinav Tejrana — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Abhirath Reddy",
+      "slug": "abhirath-reddy",
+      "targetAssetPath": "player-images/abhirath-reddy.webp",
+      "imageUrl": "https://tg20-image-proxy.dualite.app/images/hna0iq77/production/53667eb8f1afed7113549c251b30b80a070d04f9-3221x4832.jpg?auto=format&fit=max&q=75&rect=1024%2C279%2C1134%2C1130&w=400",
+      "imageSourcePage": "https://tg20.in/",
+      "imageProvider": "TG20",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Abhirath%20Reddy%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Abhirath Reddy — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Adam Milne",
+      "slug": "adam-milne",
+      "targetAssetPath": "player-images/adam-milne.webp",
+      "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto%2Ct_ds_square_w_640%2Cq_50/lsci/db/PICTURES/CMS/316600/316689.png",
+      "imageSourcePage": "https://www.espncricinfo.com/",
+      "imageProvider": "ESPNcricinfo",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Adam%20Milne%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Adam Milne — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Ajay Mandal",
+      "slug": "ajay-mandal",
+      "targetAssetPath": "player-images/ajay-mandal.webp",
+      "imageUrl": "https://www.iplbetonline.in/wp-content/uploads/2023/04/1931-780x780.png",
+      "imageSourcePage": "https://www.iplbetonline.in/",
+      "imageProvider": "IPL Bet Online",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Ajay%20Mandal%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Ajay Mandal — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Akash Madhwal",
+      "slug": "akash-madhwal",
+      "targetAssetPath": "player-images/akash-madhwal.webp",
+      "imageUrl": "https://www.iplbetonline.in/wp-content/uploads/2023/04/20681.png",
+      "imageSourcePage": "https://www.iplbetonline.in/",
+      "imageProvider": "IPL Bet Online",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Akash%20Madhwal%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Akash Madhwal — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Akshat Raghuwanshi",
+      "slug": "akshat-raghuwanshi",
+      "targetAssetPath": "player-images/akshat-raghuwanshi.webp",
+      "imageUrl": "https://mpleaguet20.com/img/players/indore-pink-panthers-2025/akshat-raghuwanshi.png",
+      "imageSourcePage": "https://mpleaguet20.com/",
+      "imageProvider": "MP League T20",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Akshat%20Raghuwanshi%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Akshat Raghuwanshi — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Alzarri Joseph",
+      "slug": "alzarri-joseph",
+      "targetAssetPath": "player-images/alzarri-joseph.webp",
+      "imageUrl": "https://static-files.cricket-australia.pulselive.com/headshots/440/2128-camedia.png",
+      "imageSourcePage": "https://www.cricket.com.au/players/CA%3A2128/alzarri-joseph",
+      "imageProvider": "Cricket Australia",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Alzarri%20Joseph%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Alzarri Joseph — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Aman Khan",
+      "slug": "aman-khan",
+      "targetAssetPath": "player-images/aman-khan.webp",
+      "imageUrl": "https://images.mykhel.com/webp/images/cricket/players/2/14452.jpg?v=5",
+      "imageSourcePage": "https://www.mykhel.com/",
+      "imageProvider": "MyKhel",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Aman%20Khan%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Aman Khan — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Andries Gous",
+      "slug": "andries-gous",
+      "targetAssetPath": "player-images/andries-gous.webp",
+      "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto%2Ct_ds_square_w_640%2Cq_50/lsci/db/PICTURES/CMS/382800/382832.png",
+      "imageSourcePage": "https://www.espncricinfo.com/",
+      "imageProvider": "ESPNcricinfo",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Andries%20Gous%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Andries Gous — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Aniketh Reddy",
+      "slug": "aniketh-reddy",
+      "targetAssetPath": "player-images/aniketh-reddy.webp",
+      "imageUrl": "https://tg20-image-proxy.dualite.app/images/hna0iq77/production/00428dd9365b602a320d603afc1b41fc5f1aefb7-3606x5409.jpg?auto=format&fit=max&q=75&rect=1147%2C150%2C1269%2C1266&w=400",
+      "imageSourcePage": "https://tg20.in/",
+      "imageProvider": "TG20",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Aniketh%20Reddy%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Aniketh Reddy — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Anmolpreet Singh",
+      "slug": "anmolpreet-singh",
+      "targetAssetPath": "player-images/anmolpreet-singh.webp",
+      "imageUrl": "https://images.mykhel.com/webp/images/cricket/players/7/8237.jpg?v=5",
+      "imageSourcePage": "https://www.mykhel.com/",
+      "imageProvider": "MyKhel",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Anmolpreet%20Singh%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Anmolpreet Singh — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Anrich Nortje",
+      "slug": "anrich-nortje",
+      "targetAssetPath": "player-images/anrich-nortje.webp",
+      "imageUrl": "https://www.wisden.com/static-assets/images/players/63641.png?v=23.57",
+      "imageSourcePage": "https://www.wisden.com/",
+      "imageProvider": "Wisden",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Anrich%20Nortje%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Anrich Nortje — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Arshin Kulkarni",
+      "slug": "arshin-kulkarni",
+      "targetAssetPath": "player-images/arshin-kulkarni.webp",
+      "imageUrl": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/5823/88542.png",
+      "imageSourcePage": "https://www.icc-cricket.com/",
+      "imageProvider": "ICC",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Arshin%20Kulkarni%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Arshin Kulkarni — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Atharva Taide",
+      "slug": "atharva-taide",
+      "targetAssetPath": "player-images/atharva-taide.webp",
+      "imageUrl": "https://www.iplbetonline.in/wp-content/uploads/2023/04/1001-780x780.png",
+      "imageSourcePage": "https://www.iplbetonline.in/",
+      "imageProvider": "IPL Bet Online",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Atharva%20Taide%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Atharva Taide — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Auqib Nabi",
+      "slug": "auqib-nabi",
+      "targetAssetPath": "player-images/auqib-nabi.webp",
+      "imageUrl": "https://www.delhicapitals.in/static-assets/images/players/ipl/70172.png?v=2.56",
+      "imageSourcePage": "https://www.delhicapitals.in/",
+      "imageProvider": "Delhi Capitals",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Auqib%20Nabi%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Auqib Nabi — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Ayush Vartak",
+      "slug": "ayush-vartak",
+      "targetAssetPath": "player-images/ayush-vartak.webp",
+      "imageUrl": "https://cf-img-a-in.tosshub.com/lingo/shtak/images/story/202604/69f01f133ac56-ayush-vartak-284428261-1x1.png",
+      "imageSourcePage": "https://www.indiatoday.in/",
+      "imageProvider": "India Today",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Ayush%20Vartak%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Ayush Vartak — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Bas de Leede",
+      "slug": "bas-de-leede",
+      "targetAssetPath": "player-images/bas-de-leede.webp",
+      "imageUrl": "https://www.wisden.com/static-assets/images/players/67717.png?v=23.77",
+      "imageSourcePage": "https://www.wisden.com/players/bas-de-leede-67717",
+      "imageProvider": "Wisden",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Bas%20de%20Leede%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Bas de Leede — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Brandon McMullen",
+      "slug": "brandon-mcmullen",
+      "targetAssetPath": "player-images/brandon-mcmullen.webp",
+      "imageUrl": "https://static-files.cricket-australia.pulselive.com/headshots/440/10765-camedia.png",
+      "imageSourcePage": "https://www.cricket.com.au/",
+      "imageProvider": "Cricket Australia",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Brandon%20McMullen%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Brandon McMullen — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Brian Bennett",
+      "slug": "brian-bennett",
+      "targetAssetPath": "player-images/brian-bennett.webp",
+      "imageUrl": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/87227.png",
+      "imageSourcePage": "https://www.icc-cricket.com/rankings/87227/brian-bennett",
+      "imageProvider": "ICC",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Brian%20Bennett%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Brian Bennett — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Cameron Green",
+      "slug": "cameron-green",
+      "targetAssetPath": "player-images/cameron-green.webp",
+      "imageUrl": "https://www.wisden.com/static-assets/images/players/66870.png?v=23.55",
+      "imageSourcePage": "https://wisden.com/players/cameron-donald-green-66870",
+      "imageProvider": "Wisden",
+      "photoMatchStatus": "Replaced — straight-on front-facing Cameron Green headshot",
+      "usageStatus": "User confirms permission for this fan-made project; remote image URL, local image file not downloaded yet.",
+      "photoLookupUrl": "https://wisden.com/players/cameron-donald-green-66870",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Cameron Green — straight-on front-facing Australian cricket headshot",
+      "localFileCreated": false,
+      "notes": "Replaced the earlier angled/action-style photo with a straight-on head-and-shoulders portrait from Wisden player profile. Source page: https://wisden.com/players/cameron-donald-green-66870"
+    },
+    {
+      "playerName": "Chama Milind",
+      "slug": "chama-milind",
+      "targetAssetPath": "player-images/chama-milind.webp",
+      "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto%2Ct_ds_square_w_640%2Cq_50/lsci/db/PICTURES/CMS/340300/340312.png",
+      "imageSourcePage": "https://www.espncricinfo.com/",
+      "imageProvider": "ESPNcricinfo",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Chama%20Milind%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Chama Milind — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Chetan Sakariya",
+      "slug": "chetan-sakariya",
+      "targetAssetPath": "player-images/chetan-sakariya.webp",
+      "imageUrl": "https://images.mykhel.com/webp/images/cricket/players/6/13756.jpg?v=6",
+      "imageSourcePage": "https://www.mykhel.com/",
+      "imageProvider": "MyKhel",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Chetan%20Sakariya%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Chetan Sakariya — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Chinmay Sutar",
+      "slug": "chinmay-sutar",
+      "targetAssetPath": "player-images/chinmay-sutar.webp",
+      "imageUrl": "https://c.ndtvimg.com/2025-06/5vc83hqs_chinmay-sutar_625x300_08_June_25.jpeg?im=FeatureCrop%2Calgorithm%3Ddnn%2Cwidth%3D806%2Cheight%3D605",
+      "imageSourcePage": "https://sports.ndtv.com/cricket/chinmay-sutar-steers-royals-to-glory-as-batting-brilliance-seals-dy-patil-thriller-in-t20-mumbai-8617021",
+      "imageProvider": "NDTV Sports",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Chinmay%20Sutar%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Chinmay Sutar — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Chintal Gandhi",
+      "slug": "chintal-gandhi",
+      "targetAssetPath": "player-images/chintal-gandhi.webp",
+      "imageUrl": null,
+      "imageSourcePage": null,
+      "imageProvider": null,
+      "photoMatchStatus": "Photo lookup pending — no direct image URL verified yet",
+      "usageStatus": "No direct image assigned yet; photo lookup link retained. Uncapped status does not prevent image assignment.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Chintal%20Gandhi%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Chintal Gandhi — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "No direct, candidate-specific image URL verified yet. Use the photo lookup link; do not substitute a different player."
+    },
+    {
+      "playerName": "Chris Greaves",
+      "slug": "chris-greaves",
+      "targetAssetPath": "player-images/chris-greaves.webp",
+      "imageUrl": "https://static-files.cricket-australia.pulselive.com/headshots/440/8199-camedia.png",
+      "imageSourcePage": "https://www.cricket.com.au/",
+      "imageProvider": "Cricket Australia",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Chris%20Greaves%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Chris Greaves — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Connor Esterhuizen",
+      "slug": "connor-esterhuizen",
+      "targetAssetPath": "player-images/connor-esterhuizen.webp",
+      "imageUrl": "https://img.ipl.com/upload/20260113/46be8fe4c08dcefe742d5f91c7ad7dc8.jpg",
+      "imageSourcePage": "https://www.ipl.com/",
+      "imageProvider": "IPL.com",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Connor%20Esterhuizen%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Connor Esterhuizen — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Daksh Kamra",
+      "slug": "daksh-kamra",
+      "targetAssetPath": "player-images/daksh-kamra.webp",
+      "imageUrl": "https://www.kkr.in/static-assets/images/players/137799.png?v=112.12",
+      "imageSourcePage": "https://www.kkr.in/",
+      "imageProvider": "Kolkata Knight Riders",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Daksh%20Kamra%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Daksh Kamra — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Daniel Lategan",
+      "slug": "daniel-lategan",
+      "targetAssetPath": "player-images/daniel-lategan.webp",
+      "imageUrl": null,
+      "imageSourcePage": null,
+      "imageProvider": null,
+      "photoMatchStatus": "Photo lookup pending — no direct image URL verified yet",
+      "usageStatus": "No direct image assigned yet; photo lookup link retained. Uncapped status does not prevent image assignment.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Daniel%20Lategan%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Daniel Lategan — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "No direct, candidate-specific image URL verified yet. Use the photo lookup link; do not substitute a different player."
+    },
+    {
+      "playerName": "Daniel Lawrence",
+      "slug": "daniel-lawrence",
+      "targetAssetPath": "player-images/daniel-lawrence.webp",
+      "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto%2Ct_ds_square_w_640%2Cq_50/lsci/db/PICTURES/CMS/324200/324233.png",
+      "imageSourcePage": "https://www.espncricinfo.com/cricketers/dan-lawrence-641423",
+      "imageProvider": "ESPNcricinfo",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Daniel%20Lawrence%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Daniel Lawrence — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Danish Malewar",
+      "slug": "danish-malewar",
+      "targetAssetPath": "player-images/danish-malewar.webp",
+      "imageUrl": "https://images.financialexpressdigital.com/2026/04/Danish_Malewar_debut.jpg",
+      "imageSourcePage": "https://www.financialexpress.com/",
+      "imageProvider": "Financial Express",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Danish%20Malewar%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Danish Malewar — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Daryl Mitchell",
+      "slug": "daryl-mitchell",
+      "targetAssetPath": "player-images/daryl-mitchell.webp",
+      "imageUrl": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/8322/57444.png",
+      "imageSourcePage": "https://www.icc-cricket.com/tournaments/champions-trophy-2025/teams/5/players/57444/daryl-mitchell",
+      "imageProvider": "ICC",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Daryl%20Mitchell%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Daryl Mitchell — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Dasun Shanaka",
+      "slug": "dasun-shanaka",
+      "targetAssetPath": "player-images/dasun-shanaka.webp",
+      "imageUrl": "https://wisden.com/static-assets/images/players/59067.png?v=23.72",
+      "imageSourcePage": "https://wisden.com/players/dasun-shanaka-59067",
+      "imageProvider": "Wisden",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Dasun%20Shanaka%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Dasun Shanaka — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "David Payne",
+      "slug": "david-payne",
+      "targetAssetPath": "player-images/david-payne.webp",
+      "imageUrl": "https://static-files.cricket-australia.pulselive.com/headshots/440/361-camedia.png",
+      "imageSourcePage": "https://www.cricket.com.au/players/CA%3A361/david-payne",
+      "imageProvider": "Cricket Australia",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms required image permissions are secured.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20David%20Payne%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "David Payne — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Official Cricket Australia player profile and headshot. Candidate appears in the probable 2027 pool; image is assigned to this candidate only."
+    },
+    {
+      "playerName": "Deepak Chahar",
+      "slug": "deepak-chahar",
+      "targetAssetPath": "player-images/deepak-chahar.webp",
+      "imageUrl": "https://www.wisden.com/static-assets/images/players/59547.png?v=23.77",
+      "imageSourcePage": "https://www.wisden.com/",
+      "imageProvider": "Wisden",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Deepak%20Chahar%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Deepak Chahar — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Deepak Hooda",
+      "slug": "deepak-hooda",
+      "targetAssetPath": "player-images/deepak-hooda.webp",
+      "imageUrl": "https://img.wegreenkw.com/sites/4/2023/03/Deepak-Hooda.webp",
+      "imageSourcePage": "https://wegreenkw.com/sports/deepak-hooda/",
+      "imageProvider": "WeGreen",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Deepak%20Hooda%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Deepak Hooda — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Devon Conway",
+      "slug": "devon-conway",
+      "targetAssetPath": "player-images/devon-conway.webp",
+      "imageUrl": "https://www.wisden.com/static-assets/images/players/13177.png?v=23.77",
+      "imageSourcePage": "https://www.wisden.com/players/devon-conway-13177",
+      "imageProvider": "Wisden",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Devon%20Conway%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Devon Conway — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Dian Forrester",
+      "slug": "dian-forrester",
+      "targetAssetPath": "player-images/dian-forrester.webp",
+      "imageUrl": "https://img.ipl.com/upload/20260112/46b0cd7eb76ed453c534d4ec2310f9fb.jpg",
+      "imageSourcePage": "https://www.ipl.com/player/dian-forrester",
+      "imageProvider": "IPL.com",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Dian%20Forrester%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Dian Forrester — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Eden Apple Tom",
+      "slug": "eden-apple-tom",
+      "targetAssetPath": "player-images/eden-apple-tom.webp",
+      "imageUrl": "https://img.onmanorama.com/content/dam/mm/en/sports/cricket/images/2022/4/23/edhen.jpg?h=583&w=1120",
+      "imageSourcePage": "https://www.onmanorama.com/",
+      "imageProvider": "Onmanorama",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Eden%20Apple%20Tom%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Eden Apple Tom — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Fazalhaq Farooqi",
+      "slug": "fazalhaq-farooqi",
+      "targetAssetPath": "player-images/fazalhaq-farooqi.webp",
+      "imageUrl": "https://www.wisden.com/static-assets/images/players/67927.png?v=23.77",
+      "imageSourcePage": "https://www.wisden.com/players/fazalhaq-farooqi-67927",
+      "imageProvider": "Wisden",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Fazalhaq%20Farooqi%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Fazalhaq Farooqi — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "George Munsey",
+      "slug": "george-munsey",
+      "targetAssetPath": "player-images/george-munsey.webp",
+      "imageUrl": "https://static-files.cricket-australia.pulselive.com/headshots/440/754-camedia.png",
+      "imageSourcePage": "https://www.cricket.com.au/",
+      "imageProvider": "Cricket Australia",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20George%20Munsey%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "George Munsey — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Gerald Coetzee",
+      "slug": "gerald-coetzee",
+      "targetAssetPath": "player-images/gerald-coetzee.webp",
+      "imageUrl": "https://www.wisden.com/static-assets/images/players/67443.png?v=23.77",
+      "imageSourcePage": "https://www.wisden.com/",
+      "imageProvider": "Wisden",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Gerald%20Coetzee%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Gerald Coetzee — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Gus Atkinson",
+      "slug": "gus-atkinson",
+      "targetAssetPath": "player-images/gus-atkinson.webp",
+      "imageUrl": "https://resources.ecb.co.uk/player-photos/odi/480x480/20477.png",
+      "imageSourcePage": "https://www.ecb.co.uk/",
+      "imageProvider": "ECB",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Gus%20Atkinson%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Gus Atkinson — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Harkirat Bajwa",
+      "slug": "harkirat-bajwa",
+      "targetAssetPath": "player-images/harkirat-bajwa.webp",
+      "imageUrl": "https://static-files.cricket-australia.pulselive.com/headshots/440/8522-camedia.png",
+      "imageSourcePage": "https://www.cricket.com.au/",
+      "imageProvider": "Cricket Australia",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Harkirat%20Bajwa%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Harkirat Bajwa — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Harnoor Singh",
+      "slug": "harnoor-singh",
+      "targetAssetPath": "player-images/harnoor-singh.webp",
+      "imageUrl": "https://www.punjabkingsipl.in/static-assets/images/players/89196.png?v=6.27",
+      "imageSourcePage": "https://www.punjabkingsipl.in/",
+      "imageProvider": "Punjab Kings",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Harnoor%20Singh%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Harnoor Singh — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Harry Tector",
+      "slug": "harry-tector",
+      "targetAssetPath": "player-images/harry-tector.webp",
+      "imageUrl": "https://www.wisden.com/static-assets/images/players/66085.png?v=23.77",
+      "imageSourcePage": "https://www.wisden.com/",
+      "imageProvider": "Wisden",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Harry%20Tector%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Harry Tector — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Harshal Patel",
+      "slug": "harshal-patel",
+      "targetAssetPath": "player-images/harshal-patel.webp",
+      "imageUrl": "https://static-files.cricket-australia.pulselive.com/headshots/440/2565-camedia.png",
+      "imageSourcePage": "https://www.cricket.com.au/",
+      "imageProvider": "Cricket Australia",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Harshal%20Patel%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Harshal Patel — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Himmat Singh",
+      "slug": "himmat-singh",
+      "targetAssetPath": "player-images/himmat-singh.webp",
+      "imageUrl": "https://i.cdn.newsbytesapp.com/images/l99220240128141340.jpeg",
+      "imageSourcePage": "https://www.newsbytesapp.com/",
+      "imageProvider": "NewsBytes",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Himmat%20Singh%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Himmat Singh — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Innesh Mahajan",
+      "slug": "innesh-mahajan",
+      "targetAssetPath": "player-images/innesh-mahajan.webp",
+      "imageUrl": "https://www.hindustantimes.com/static-content/1y/cricket-logos/players/innesh-mahajan.png",
+      "imageSourcePage": "https://www.hindustantimes.com/",
+      "imageProvider": "Hindustan Times",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Innesh%20Mahajan%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Innesh Mahajan — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Irfan Umair",
+      "slug": "irfan-umair",
+      "targetAssetPath": "player-images/irfan-umair.webp",
+      "imageUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202510/irfan-umair-160737671-1x1.jpg?VersionId=ZcyENsZc9_M8RC6b0QH.0K01Pc9TxvUJ",
+      "imageSourcePage": "https://www.indiatoday.in/",
+      "imageProvider": "India Today",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Irfan%20Umair%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Irfan Umair — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Ishant Sharma",
+      "slug": "ishant-sharma",
+      "targetAssetPath": "player-images/ishant-sharma.webp",
+      "imageUrl": "https://static-files.cricket-australia.pulselive.com/headshots/440/10944-camedia.png",
+      "imageSourcePage": "https://www.cricket.com.au/players/CA%3A10944/ishant-sharma",
+      "imageProvider": "Cricket Australia",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Ishant%20Sharma%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Ishant Sharma — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Izaz Sawariya",
+      "slug": "izaz-sawariya",
+      "targetAssetPath": "player-images/izaz-sawariya.webp",
+      "imageUrl": "https://a.espncdn.com/i/cricket/cricinfo/1515746_1296x729.jpg",
+      "imageSourcePage": "https://www.espncricinfo.com/",
+      "imageProvider": "ESPNcricinfo",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Izaz%20Sawariya%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Izaz Sawariya — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Jake Fraser-McGurk",
+      "slug": "jake-fraser-mcgurk",
+      "targetAssetPath": "player-images/jake-fraser-mcgurk.webp",
+      "imageUrl": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3115.png",
+      "imageSourcePage": "https://www.iplt20.com/players/jake-fraser-mcgurk/20720",
+      "imageProvider": "IPL",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Jake%20Fraser-McGurk%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Jake Fraser-McGurk — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "James Coles",
+      "slug": "james-coles",
+      "targetAssetPath": "player-images/james-coles.webp",
+      "imageUrl": "https://onecricketnews.akamaized.net/parth-editor/oc-dashboard/news-images-prod/1773325597199_James%20Coles%20for%20SEC%20in%20SA20.jpg?type=uhq",
+      "imageSourcePage": "https://crex.com/cricket-stories/who-is-james-coles-the-most-expensive-player-of-the-hundred-2026-auction-69b2d0254e4efb067cad614f",
+      "imageProvider": "OneCricket CDN (image featured in CREX article)",
+      "photoMatchStatus": "Direct image assigned — James Coles pictured in Sunrisers Eastern Cape jersey",
+      "usageStatus": "User confirms permission for this fan-made project; remote image URL, local copy not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20James%20Coles%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "James Coles in Sunrisers Eastern Cape jersey — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "James Coles played for Sunrisers Eastern Cape in SA20. Direct image URL corresponds to a photo captioned as James Coles for SEC. Local image file not yet downloaded."
+    },
+    {
+      "playerName": "Jamie Smith",
+      "slug": "jamie-smith",
+      "targetAssetPath": "player-images/jamie-smith.webp",
+      "imageUrl": "https://resources.ecb.co.uk/player-photos/test/800x800/5223.png",
+      "imageSourcePage": "https://www.ecb.co.uk/england/men/players",
+      "imageProvider": "ECB",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.cricbuzz.com/profiles/13810/jamie-smith",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Jamie Smith — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Jayant Yadav",
+      "slug": "jayant-yadav",
+      "targetAssetPath": "player-images/jayant-yadav.webp",
+      "imageUrl": "https://static-files.cricket-australia.pulselive.com/headshots/440/10952-camedia.png",
+      "imageSourcePage": "https://www.cricket.com.au/",
+      "imageProvider": "Cricket Australia",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Jayant%20Yadav%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Jayant Yadav — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Jaydev Unadkat",
+      "slug": "jaydev-unadkat",
+      "targetAssetPath": "player-images/jaydev-unadkat.webp",
+      "imageUrl": "https://img.etimg.com/photo/120695719.cms",
+      "imageSourcePage": "https://economictimes.indiatimes.com/news/ipl/player/player_id-5448.cms",
+      "imageProvider": "The Economic Times",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Jaydev%20Unadkat%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Jaydev Unadkat — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Jhye Richardson",
+      "slug": "jhye-richardson",
+      "targetAssetPath": "player-images/jhye-richardson.webp",
+      "imageUrl": "https://static-files.cricket-australia.pulselive.com/headshots/440/294-camedia.png",
+      "imageSourcePage": "https://www.wacricket.com.au/players/CA%3A294/jhye-richardson",
+      "imageProvider": "Western Australian Cricket Association",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Jhye%20Richardson%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Jhye Richardson — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Jikku Bright",
+      "slug": "jikku-bright",
+      "targetAssetPath": "player-images/jikku-bright.webp",
+      "imageUrl": null,
+      "imageSourcePage": null,
+      "imageProvider": null,
+      "photoMatchStatus": "Photo lookup pending — no direct image URL verified yet",
+      "usageStatus": "No direct image assigned yet; photo lookup link retained. Uncapped status does not prevent image assignment.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Jikku%20Bright%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Jikku Bright — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "No direct, candidate-specific image URL verified yet. Use the photo lookup link; do not substitute a different player."
+    },
+    {
+      "playerName": "Jonny Bairstow",
+      "slug": "jonny-bairstow",
+      "targetAssetPath": "player-images/jonny-bairstow.webp",
+      "imageUrl": "https://www.thepca.co.uk/wp-content/uploads/2017/11/Jonny-Bairstow.jpg",
+      "imageSourcePage": "https://www.thepca.co.uk/",
+      "imageProvider": "PCA",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Jonny%20Bairstow%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Jonny Bairstow — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Jordan Hermann",
+      "slug": "jordan-hermann",
+      "targetAssetPath": "player-images/jordan-hermann.webp",
+      "imageUrl": "https://img.cricketnmore.com/uploads/2022/11/jordan-hermann-in-srh.jpg",
+      "imageSourcePage": "https://www.cricketnmore.com/",
+      "imageProvider": "CricketNmore",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Jordan%20Hermann%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Jordan Hermann — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "K.S. Bharat",
+      "slug": "k-s-bharat",
+      "targetAssetPath": "player-images/k-s-bharat.webp",
+      "imageUrl": "https://img.onmanorama.com/content/dam/mm/en/sports/cricket/images/2020/1/17/india-wicetkeeper-ks-bharat.jpg/photos/16x9/photo.jpg",
+      "imageSourcePage": "https://www.onmanorama.com/sports/cricket/2020/01/17/india-wicetkeeper-ks-bharat-rishabh-pant-australia-odi.html",
+      "imageProvider": "Onmanorama",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20K.S.%20Bharat%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "K.S. Bharat — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Kamlesh Nagarkoti",
+      "slug": "kamlesh-nagarkoti",
+      "targetAssetPath": "player-images/kamlesh-nagarkoti.webp",
+      "imageUrl": "https://www.iplbetonline.in/wp-content/uploads/2023/04/3766.png",
+      "imageSourcePage": "https://www.iplbetonline.in/",
+      "imageProvider": "IPL Bet Online",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Kamlesh%20Nagarkoti%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Kamlesh Nagarkoti — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Kanish Chouhan",
+      "slug": "kanish-chouhan",
+      "targetAssetPath": "player-images/kanish-chouhan.webp",
+      "imageUrl": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/13454/133195.png",
+      "imageSourcePage": "https://www.icc-cricket.com/tournaments/u19-cricket-worldcup-2026/teams/1163/players/133195/kanishk-chouhan",
+      "imageProvider": "ICC (candidate spelling likely alias Kanishk Chouhan)",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Kanish%20Chouhan%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Kanish Chouhan — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Image source names the player Kanishk Chouhan; candidate record uses Kanish Chouhan. Verify spelling/identity before production."
+    },
+    {
+      "playerName": "Karan Lal",
+      "slug": "karan-lal",
+      "targetAssetPath": "player-images/karan-lal.webp",
+      "imageUrl": "https://pbs.twimg.com/media/EOkjea_UcAUAGGg.jpg",
+      "imageSourcePage": "https://x.com/CabCricket/status/1218544382917242881",
+      "imageProvider": "Cricket Association of Bengal on X",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Karan%20Lal%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Karan Lal — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Karn Sharma",
+      "slug": "karn-sharma",
+      "targetAssetPath": "player-images/karn-sharma.webp",
+      "imageUrl": "https://documents.iplt20.com/ipl/IPLHeadshot2025/98.png",
+      "imageSourcePage": "https://www.iplt20.com/players/karn-sharma/1118",
+      "imageProvider": "IPL",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded; verify it loads during final website QA. Remote source, local file not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Karn%20Sharma%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Karn Sharma — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved. Image found in a targeted player-image search; verify display in gallery."
+    },
+    {
+      "playerName": "Kartik Tyagi",
+      "slug": "kartik-tyagi",
+      "targetAssetPath": "player-images/kartik-tyagi.webp",
+      "imageUrl": "https://d4m5dqa9jd1n0.cloudfront.net/players/sbjeq7kXLLwNMoNyW8Upu1e7wsWW7mhk7ZpVODEZ.jpeg",
+      "imageSourcePage": "https://www.cricket.com/",
+      "imageProvider": "Cricket.com",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Kartik%20Tyagi%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Kartik Tyagi — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Kartikeya Singh",
+      "slug": "kartikeya-singh",
+      "targetAssetPath": "player-images/kartikeya-singh.webp",
+      "imageUrl": null,
+      "imageSourcePage": null,
+      "imageProvider": null,
+      "photoMatchStatus": "Photo lookup pending — no direct image URL verified yet",
+      "usageStatus": "No direct image assigned yet; photo lookup link retained. Uncapped status does not prevent image assignment.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Kartikeya%20Singh%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Kartikeya Singh — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "No direct, candidate-specific image URL verified yet. Use the photo lookup link; do not substitute a different player."
+    },
+    {
+      "playerName": "KC Cariappa",
+      "slug": "kc-cariappa",
+      "targetAssetPath": "player-images/kc-cariappa.webp",
+      "imageUrl": "https://images.mykhel.com/webp/images/cricket/players/3/7683.jpg?v=5",
+      "imageSourcePage": "https://www.mykhel.com/",
+      "imageProvider": "MyKhel",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20KC%20Cariappa%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "KC Cariappa — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Keshav Maharaj",
+      "slug": "keshav-maharaj",
+      "targetAssetPath": "player-images/keshav-maharaj.webp",
+      "imageUrl": "https://documents.iplt20.com/ipl/IPLHeadshot2024/347.png",
+      "imageSourcePage": "https://www.iplt20.com/",
+      "imageProvider": "IPL",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Keshav%20Maharaj%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Keshav Maharaj — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Khaleel Ahmed",
+      "slug": "khaleel-ahmed",
+      "targetAssetPath": "player-images/khaleel-ahmed.webp",
+      "imageUrl": "https://documents.iplt20.com/ipl/IPLHeadshot2026/192.png",
+      "imageSourcePage": "https://www.iplt20.com/",
+      "imageProvider": "IPL",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Khaleel%20Ahmed%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Khaleel Ahmed — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "KM Asif",
+      "slug": "km-asif",
+      "targetAssetPath": "player-images/km-asif.webp",
+      "imageUrl": "https://img.wegreenkw.com/sites/4/2023/03/KM-Asif.webp",
+      "imageSourcePage": "https://wegreenkw.com/",
+      "imageProvider": "WeGreen",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20KM%20Asif%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "KM Asif — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Krish Bhagat",
+      "slug": "krish-bhagat",
+      "targetAssetPath": "player-images/krish-bhagat.webp",
+      "imageUrl": "https://images.financialexpressdigital.com/2026/04/Krish_Bhagat_debut.jpg?w=1600",
+      "imageSourcePage": "https://www.financialexpress.com/",
+      "imageProvider": "Financial Express",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Krish%20Bhagat%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Krish Bhagat — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Kuldeep Sen",
+      "slug": "kuldeep-sen",
+      "targetAssetPath": "player-images/kuldeep-sen.webp",
+      "imageUrl": "https://www.wisden.com/static-assets/images/players/70402.png?v=23.77",
+      "imageSourcePage": "https://www.wisden.com/",
+      "imageProvider": "Wisden",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Kuldeep%20Sen%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Kuldeep Sen — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Kuldip Yadav",
+      "slug": "kuldip-yadav",
+      "targetAssetPath": "player-images/kuldip-yadav.webp",
+      "imageUrl": "https://documents.iplt20.com/ipl/IPLHeadshot2023/593.png",
+      "imageSourcePage": "https://www.iplt20.com/",
+      "imageProvider": "IPL",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Kuldip%20Yadav%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Kuldip Yadav — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Kulwant Khejroliya",
+      "slug": "kulwant-khejroliya",
+      "targetAssetPath": "player-images/kulwant-khejroliya.webp",
+      "imageUrl": "https://images.mykhel.com/webp/images/cricket/players/4/11104.jpg?v=5",
+      "imageSourcePage": "https://www.mykhel.com/",
+      "imageProvider": "MyKhel",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Kulwant%20Khejroliya%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Kulwant Khejroliya — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Lakshya Raichandani",
+      "slug": "lakshya-raichandani",
+      "targetAssetPath": "player-images/lakshya-raichandani.webp",
+      "imageUrl": "https://media.crictracker.com/media/attachments/1788959821483_Lakshya-Raichandani.jpeg",
+      "imageSourcePage": "https://www.crictracker.com/",
+      "imageProvider": "CricTracker",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Lakshya%20Raichandani%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Lakshya Raichandani — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Liam Livingstone",
+      "slug": "liam-livingstone",
+      "targetAssetPath": "player-images/liam-livingstone.webp",
+      "imageUrl": "https://www.wisden.com/static-assets/images/players/63940.png?v=23.77",
+      "imageSourcePage": "https://www.wisden.com/",
+      "imageProvider": "Wisden",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Liam%20Livingstone%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Liam Livingstone — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Lockie Ferguson",
+      "slug": "lockie-ferguson",
+      "targetAssetPath": "player-images/lockie-ferguson.webp",
+      "imageUrl": "https://www.panthalassanews.com/assets/images/biography/thumb/lockie-ferguson_image.jpg",
+      "imageSourcePage": "https://www.panthalassanews.com/biography/lockie-ferguson",
+      "imageProvider": "Panthalassa News",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Lockie%20Ferguson%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Lockie Ferguson — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Lorcan Tucker",
+      "slug": "lorcan-tucker",
+      "targetAssetPath": "player-images/lorcan-tucker.webp",
+      "imageUrl": "https://www.wisden.com/static-assets/images/players/66087.png?v=23.77",
+      "imageSourcePage": "https://www.wisden.com/",
+      "imageProvider": "Wisden",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Lorcan%20Tucker%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Lorcan Tucker — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "M. Dheeraj Kumar",
+      "slug": "m-dheeraj-kumar",
+      "targetAssetPath": "player-images/m-dheeraj-kumar.webp",
+      "imageUrl": null,
+      "imageSourcePage": null,
+      "imageProvider": null,
+      "photoMatchStatus": "Photo lookup pending — no direct image URL verified yet",
+      "usageStatus": "No direct image assigned yet; photo lookup link retained. Uncapped status does not prevent image assignment.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20M.%20Dheeraj%20Kumar%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "M. Dheeraj Kumar — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "No direct, candidate-specific image URL verified yet. Use the photo lookup link; do not substitute a different player."
+    },
+    {
+      "playerName": "Macneil Noronha",
+      "slug": "macneil-noronha",
+      "targetAssetPath": "player-images/macneil-noronha.webp",
+      "imageUrl": "https://img.ipl.com/upload/20260514/dd2667064fd39e64fc8f72cf864e35e8.png",
+      "imageSourcePage": "https://www.ipl.com/cricket/series/macneil-hadley-noronha/",
+      "imageProvider": "IPL.com",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded; verify it loads during final website QA. Remote source, local file not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Macneil%20Noronha%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Macneil Noronha — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved. Image found in a targeted player-image search; verify display in gallery."
+    },
+    {
+      "playerName": "Maheesh Theekshana",
+      "slug": "maheesh-theekshana",
+      "targetAssetPath": "player-images/maheesh-theekshana.webp",
+      "imageUrl": "https://www.wisden.com/static-assets/images/players/69274.png?v=23.36",
+      "imageSourcePage": "https://www.wisden.com/",
+      "imageProvider": "Wisden",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Maheesh%20Theekshana%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Maheesh Theekshana — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Mahipal Lomror",
+      "slug": "mahipal-lomror",
+      "targetAssetPath": "player-images/mahipal-lomror.webp",
+      "imageUrl": "https://www.iplbetonline.in/wp-content/uploads/2023/04/2970.png",
+      "imageSourcePage": "https://www.iplbetonline.in/",
+      "imageProvider": "IPL Bet Online",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Mahipal%20Lomror%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Mahipal Lomror — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Manan Vohra",
+      "slug": "manan-vohra",
+      "targetAssetPath": "player-images/manan-vohra.webp",
+      "imageUrl": "https://www.hindustantimes.com/ht-img/img/2025/12/04/cropped/1-1/Manan-Vohra--HT-File-_1764788680007_1764808576106.jpg",
+      "imageSourcePage": "https://www.hindustantimes.com/",
+      "imageProvider": "Hindustan Times",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Manan%20Vohra%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Manan Vohra — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Mangesh Yadav",
+      "slug": "mangesh-yadav",
+      "targetAssetPath": "player-images/mangesh-yadav.webp",
+      "imageUrl": "https://pbs.twimg.com/media/G8Sz-p0a4AgszL3.jpg",
+      "imageSourcePage": "https://x.com/",
+      "imageProvider": "X",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Mangesh%20Yadav%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Mangesh Yadav — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Mani Sankar Mura Singh",
+      "slug": "mani-sankar-mura-singh",
+      "targetAssetPath": "player-images/mani-sankar-mura-singh.webp",
+      "imageUrl": null,
+      "imageSourcePage": null,
+      "imageProvider": null,
+      "photoMatchStatus": "Photo lookup pending — no direct image URL verified yet",
+      "usageStatus": "No direct image assigned yet; photo lookup link retained. Uncapped status does not prevent image assignment.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Mani%20Sankar%20Mura%20Singh%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Mani Sankar Mura Singh — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "No direct, candidate-specific image URL verified yet. Use the photo lookup link; do not substitute a different player."
+    },
+    {
+      "playerName": "Marco Jansen",
+      "slug": "marco-jansen",
+      "targetAssetPath": "player-images/marco-jansen.webp",
+      "imageUrl": "https://documents.iplt20.com/ipl/IPLHeadshot2026/586.png",
+      "imageSourcePage": "https://www.iplt20.com/",
+      "imageProvider": "IPL",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Marco%20Jansen%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Marco Jansen — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Mark Adair",
+      "slug": "mark-adair",
+      "targetAssetPath": "player-images/mark-adair.webp",
+      "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto%2Ct_ds_square_w_640%2Cq_50/lsci/db/PICTURES/CMS/319800/319892.png",
+      "imageSourcePage": "https://www.espncricinfo.com/",
+      "imageProvider": "ESPNcricinfo",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Mark%20Adair%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Mark Adair — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Matt Short",
+      "slug": "matt-short",
+      "targetAssetPath": "player-images/matt-short.webp",
+      "imageUrl": "https://images.mykhel.com/webp/images/cricket/players/4/7034.jpg?v=5",
+      "imageSourcePage": "https://www.mykhel.com/",
+      "imageProvider": "MyKhel",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.cricbuzz.com/profiles/9456/matthew-short-c",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Matt Short — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Matthew Gilkes",
+      "slug": "matthew-gilkes",
+      "targetAssetPath": "player-images/matthew-gilkes.webp",
+      "imageUrl": "https://static-files.cricket-australia.pulselive.com/headshots/440/1617-shield.png",
+      "imageSourcePage": "https://www.cricket.com.au/",
+      "imageProvider": "Cricket Australia",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Matthew%20Gilkes%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Matthew Gilkes — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Max O'Dowd",
+      "slug": "max-o-dowd",
+      "targetAssetPath": "player-images/max-o-dowd.webp",
+      "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto%2Ct_ds_square_w_640%2Cq_50/lsci/db/PICTURES/CMS/381700/381736.3.png",
+      "imageSourcePage": "https://www.espncricinfo.com/cricketers/max-o-dowd-643197",
+      "imageProvider": "ESPNcricinfo",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Max%20O%27Dowd%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Max O'Dowd — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Mayank Dagar",
+      "slug": "mayank-dagar",
+      "targetAssetPath": "player-images/mayank-dagar.webp",
+      "imageUrl": "https://documents.iplt20.com/ipl/IPLHeadshot2024/1547.png",
+      "imageSourcePage": "https://www.iplt20.com/",
+      "imageProvider": "IPL",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Mayank%20Dagar%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Mayank Dagar — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Mayank Markande",
+      "slug": "mayank-markande",
+      "targetAssetPath": "player-images/mayank-markande.webp",
+      "imageUrl": "https://img.wegreenkw.com/sites/4/2023/03/Mayank-Markande.webp",
+      "imageSourcePage": "https://wegreenkw.com/",
+      "imageProvider": "WeGreen",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Mayank%20Markande%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Mayank Markande — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Mayank Rawat",
+      "slug": "mayank-rawat",
+      "targetAssetPath": "player-images/mayank-rawat.webp",
+      "imageUrl": "https://documents.iplt20.com/ipl/IPLHeadshot2025/174.png",
+      "imageSourcePage": "https://www.iplt20.com/",
+      "imageProvider": "IPL",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Mayank%20Rawat%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Mayank Rawat — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Michael Bracewell",
+      "slug": "michael-bracewell",
+      "targetAssetPath": "player-images/michael-bracewell.webp",
+      "imageUrl": "https://img.ipl.com/upload/20251111/b4a77c871bb64b32ee400f7f80ec7045.jpg",
+      "imageSourcePage": "https://www.ipl.com/cricket/series/michael-bracewell/",
+      "imageProvider": "IPL.com",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Michael%20Bracewell%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Michael Bracewell — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Mohammed Shami",
+      "slug": "mohammed-shami",
+      "targetAssetPath": "player-images/mohammed-shami.webp",
+      "imageUrl": "https://www.wisden.com/static-assets/images/players/28994.png?v=23.77",
+      "imageSourcePage": "https://www.wisden.com/players/mohammad-shami-28994",
+      "imageProvider": "Wisden",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.cricbuzz.com/profiles/7909/MohammedShami",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Mohammed Shami — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Mohit Rathee",
+      "slug": "mohit-rathee",
+      "targetAssetPath": "player-images/mohit-rathee.webp",
+      "imageUrl": "https://www.iplbetonline.in/wp-content/uploads/2023/04/1935.png",
+      "imageSourcePage": "https://www.iplbetonline.in/",
+      "imageProvider": "IPL Bet Online",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Mohit%20Rathee%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Mohit Rathee — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Monank Patel",
+      "slug": "monank-patel",
+      "targetAssetPath": "player-images/monank-patel.webp",
+      "imageUrl": "https://static-files.cricket-australia.pulselive.com/headshots/440/3472-camedia.png",
+      "imageSourcePage": "https://www.cricket.com.au/",
+      "imageProvider": "Cricket Australia",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Monank%20Patel%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Monank Patel — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Money Grewal",
+      "slug": "money-grewal",
+      "targetAssetPath": "player-images/money-grewal.webp",
+      "imageUrl": null,
+      "imageSourcePage": null,
+      "imageProvider": null,
+      "photoMatchStatus": "Photo lookup pending — no direct image URL verified yet",
+      "usageStatus": "No direct image assigned yet; photo lookup link retained. Uncapped status does not prevent image assignment.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Money%20Grewal%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Money Grewal — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "No direct, candidate-specific image URL verified yet. Use the photo lookup link; do not substitute a different player."
+    },
+    {
+      "playerName": "Mujeeb Ur Rahman",
+      "slug": "mujeeb-ur-rahman",
+      "targetAssetPath": "player-images/mujeeb-ur-rahman.webp",
+      "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto%2Ct_ds_square_w_640%2Cq_50/lsci/db/PICTURES/CMS/320500/320501.png",
+      "imageSourcePage": "https://www.espncricinfo.com/",
+      "imageProvider": "ESPNcricinfo",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Mujeeb%20Ur%20Rahman%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Mujeeb Ur Rahman — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Mukesh Kumar",
+      "slug": "mukesh-kumar",
+      "targetAssetPath": "player-images/mukesh-kumar.webp",
+      "imageUrl": "https://documents.iplt20.com/ipl/IPLHeadshot2023/1462.png",
+      "imageSourcePage": "https://www.iplt20.com/",
+      "imageProvider": "IPL",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Mukesh%20Kumar%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Mukesh Kumar — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Murugan Ashwin",
+      "slug": "murugan-ashwin",
+      "targetAssetPath": "player-images/murugan-ashwin.webp",
+      "imageUrl": "https://www.mumbaiindians.com/static-assets/waf-images/44/c0/0b/4-3/592-444/zMIw9rbkGB.jpg",
+      "imageSourcePage": "https://www.mumbaiindians.com/",
+      "imageProvider": "Mumbai Indians",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Murugan%20Ashwin%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Murugan Ashwin — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Naman Tiwari",
+      "slug": "naman-tiwari",
+      "targetAssetPath": "player-images/naman-tiwari.webp",
+      "imageUrl": "https://documents.iplt20.com/ipl/IPLHeadshot2026/2801.png",
+      "imageSourcePage": "https://www.iplt20.com/",
+      "imageProvider": "IPL",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Naman%20Tiwari%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Naman Tiwari — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Nathan Smith",
+      "slug": "nathan-smith",
+      "targetAssetPath": "player-images/nathan-smith.webp",
+      "imageUrl": "https://www.wisden.com/static-assets/images/players/66056.png?v=23.72",
+      "imageSourcePage": "https://wisden.com/players/nathan-smith-66056",
+      "imageProvider": "Wisden",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Nathan%20Smith%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Nathan Smith — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Navdeep Saini",
+      "slug": "navdeep-saini",
+      "targetAssetPath": "player-images/navdeep-saini.webp",
+      "imageUrl": "https://images.mykhel.com/webp/images/cricket/players/9/11099.jpg?v=5",
+      "imageSourcePage": "https://www.mykhel.com/cricket/players/navdeep-saini-ipl-p11099/",
+      "imageProvider": "MyKhel",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Navdeep%20Saini%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Navdeep Saini — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Nehal Wadhera",
+      "slug": "nehal-wadhera",
+      "targetAssetPath": "player-images/nehal-wadhera.webp",
+      "imageUrl": "https://static.toiimg.com/photo/120897386.cms",
+      "imageSourcePage": "https://timesofindia.indiatimes.com/",
+      "imageProvider": "Times of India",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Nehal%20Wadhera%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Nehal Wadhera — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Nicholas Pooran",
+      "slug": "nicholas-pooran",
+      "targetAssetPath": "player-images/nicholas-pooran.webp",
+      "imageUrl": "https://www.wisden.com/static-assets/images/players/63726.png?v=23.27",
+      "imageSourcePage": "https://wisden.com/players/nicholas-pooran-63726",
+      "imageProvider": "Wisden",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Nicholas%20Pooran%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Nicholas Pooran — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Nishant Sindhu",
+      "slug": "nishant-sindhu",
+      "targetAssetPath": "player-images/nishant-sindhu.webp",
+      "imageUrl": "https://staticg.sportskeeda.com/editor/2022/06/23baa-16546841166788-1920.jpg",
+      "imageSourcePage": "https://www.sportskeeda.com/",
+      "imageProvider": "Sportskeeda",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Nishant%20Sindhu%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Nishant Sindhu — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Nqobani Mokoena",
+      "slug": "nqobani-mokoena",
+      "targetAssetPath": "player-images/nqobani-mokoena.webp",
+      "imageUrl": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/5823/116800.png",
+      "imageSourcePage": "https://www.icc-cricket.com/",
+      "imageProvider": "ICC",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Nqobani%20Mokoena%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Nqobani Mokoena — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "A headshot exists online, but image excluded because a professional debut has not been verified, per the host's stated rule."
+    },
+    {
+      "playerName": "Pat Cummins",
+      "slug": "pat-cummins",
+      "targetAssetPath": "player-images/pat-cummins.webp",
+      "imageUrl": "https://www.wisden.com/static-assets/images/players/56964.png?v=23.77",
+      "imageSourcePage": "https://www.wisden.com/",
+      "imageProvider": "Wisden",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.cricbuzz.com/profiles/8095/pat-cummins",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Pat Cummins — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Paul Stirling",
+      "slug": "paul-stirling",
+      "targetAssetPath": "player-images/paul-stirling.webp",
+      "imageUrl": "https://www.wisden.com/static-assets/images/players/4476.png?v=23.77",
+      "imageSourcePage": "https://www.wisden.com/",
+      "imageProvider": "Wisden",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Paul%20Stirling%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Paul Stirling — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Prashant Solanki",
+      "slug": "prashant-solanki",
+      "targetAssetPath": "player-images/prashant-solanki.webp",
+      "imageUrl": "https://www.iplbetonline.in/wp-content/uploads/2023/04/972.png",
+      "imageSourcePage": "https://www.iplbetonline.in/",
+      "imageProvider": "IPL Bet Online",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Prashant%20Solanki%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Prashant Solanki — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Pravin Dubey",
+      "slug": "pravin-dubey",
+      "targetAssetPath": "player-images/pravin-dubey.webp",
+      "imageUrl": "https://documents.iplt20.com/ipl/IPLHeadshot2025/548.png",
+      "imageSourcePage": "https://www.iplt20.com/",
+      "imageProvider": "IPL",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Pravin%20Dubey%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Pravin Dubey — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Prithvi Shaw",
+      "slug": "prithvi-shaw",
+      "targetAssetPath": "player-images/prithvi-shaw.webp",
+      "imageUrl": "https://documents.iplt20.com/ipl/IPLHeadshot2024/51.png",
+      "imageSourcePage": "https://www.iplt20.com/",
+      "imageProvider": "IPL",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Prithvi%20Shaw%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Prithvi Shaw — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Pyla Avinash",
+      "slug": "pyla-avinash",
+      "targetAssetPath": "player-images/pyla-avinash.webp",
+      "imageUrl": "https://static.toiimg.com/photo/120897367.cms",
+      "imageSourcePage": "https://timesofindia.indiatimes.com/",
+      "imageProvider": "Times of India",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Pyla%20Avinash%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Pyla Avinash — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Raghu Sharma",
+      "slug": "raghu-sharma",
+      "targetAssetPath": "player-images/raghu-sharma.webp",
+      "imageUrl": "https://www.mumbaiindians.com/static-assets/images/players/large/action-shots/67726.png?v=7.34&w=400",
+      "imageSourcePage": "https://www.mumbaiindians.com/",
+      "imageProvider": "Mumbai Indians",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Raghu%20Sharma%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Raghu Sharma — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Rahmanullah Gurbaz",
+      "slug": "rahmanullah-gurbaz",
+      "targetAssetPath": "player-images/rahmanullah-gurbaz.webp",
+      "imageUrl": "https://www.wisden.com/static-assets/images/players/68027.png?v=23.77",
+      "imageSourcePage": "https://www.wisden.com/",
+      "imageProvider": "Wisden",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Rahmanullah%20Gurbaz%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Rahmanullah Gurbaz — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Rahul Chahar",
+      "slug": "rahul-chahar",
+      "targetAssetPath": "player-images/rahul-chahar.webp",
+      "imageUrl": "https://www.dsc-cricket.co.uk/media/rebel/players/r/a/rahul-chahar_1.jpg",
+      "imageSourcePage": "https://www.dsc-cricket.co.uk/",
+      "imageProvider": "DSC Cricket",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.cricbuzz.com/profiles/12087/rahul-chahar",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Rahul Chahar — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Raj Bawa",
+      "slug": "raj-bawa",
+      "targetAssetPath": "player-images/raj-bawa.webp",
+      "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto%2Ct_ds_square_w_800%2Cq_50/lsci/db/PICTURES/CMS/334000/334044.jpg",
+      "imageSourcePage": "https://www.espncricinfo.com/",
+      "imageProvider": "ESPNcricinfo",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Raj%20Bawa%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Raj Bawa — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Raj Limbani",
+      "slug": "raj-limbani",
+      "targetAssetPath": "player-images/raj-limbani.webp",
+      "imageUrl": "https://statico.sportskeeda.com/editor/2024/01/8ae70-17064703326605-1920.jpg",
+      "imageSourcePage": "https://www.sportskeeda.com/",
+      "imageProvider": "Sportskeeda",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Raj%20Limbani%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Raj Limbani — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Rajvardhan Hangargekar",
+      "slug": "rajvardhan-hangargekar",
+      "targetAssetPath": "player-images/rajvardhan-hangargekar.webp",
+      "imageUrl": "https://pbs.twimg.com/profile_images/1756964452832817152/mF0vmNbz.jpg",
+      "imageSourcePage": "https://x.com/",
+      "imageProvider": "X",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Rajvardhan%20Hangargekar%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Rajvardhan Hangargekar — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Ravi Bishnoi",
+      "slug": "ravi-bishnoi",
+      "targetAssetPath": "player-images/ravi-bishnoi.webp",
+      "imageUrl": "https://static.cricbuzz.com/a/img/v1/i1/c226280/ravi-bishnoi.jpg?d=low&p=gthumb",
+      "imageSourcePage": "https://www.cricbuzz.com/profiles/14659/ravi%20bishnoi",
+      "imageProvider": "Cricbuzz",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.cricbuzz.com/profiles/14659/ravi%20bishnoi",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Ravi Bishnoi — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Rehan Ahmed",
+      "slug": "rehan-ahmed",
+      "targetAssetPath": "player-images/rehan-ahmed.webp",
+      "imageUrl": "https://resources.ecb.co.uk/player-photos/test/800x800/20950.png",
+      "imageSourcePage": "https://www.ecb.co.uk/england/men/players/20950/rehan-ahmed",
+      "imageProvider": "ECB",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Rehan%20Ahmed%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Rehan Ahmed — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Richard Gleeson",
+      "slug": "richard-gleeson",
+      "targetAssetPath": "player-images/richard-gleeson.webp",
+      "imageUrl": "https://staticg.sportskeeda.com/editor/2023/01/fc70a-16742146910944.png",
+      "imageSourcePage": "https://www.sportskeeda.com/",
+      "imageProvider": "Sportskeeda",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Richard%20Gleeson%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Richard Gleeson — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Richard Ngarava",
+      "slug": "richard-ngarava",
+      "targetAssetPath": "player-images/richard-ngarava.webp",
+      "imageUrl": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/13203/65649.png",
+      "imageSourcePage": "https://www.icc-cricket.com/",
+      "imageProvider": "ICC",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Richard%20Ngarava%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Richard Ngarava — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Riley Meredith",
+      "slug": "riley-meredith",
+      "targetAssetPath": "player-images/riley-meredith.webp",
+      "imageUrl": "https://celebrityborns.com/admin/assets/images/people/riley_meredith_156.jpg",
+      "imageSourcePage": "https://celebrityborns.com/biography/riley-meredith/18392",
+      "imageProvider": "CelebrityBorns",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Riley%20Meredith%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Riley Meredith — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Ritik Tada",
+      "slug": "ritik-tada",
+      "targetAssetPath": "player-images/ritik-tada.webp",
+      "imageUrl": null,
+      "imageSourcePage": null,
+      "imageProvider": null,
+      "photoMatchStatus": "Photo lookup pending — no direct image URL verified yet",
+      "usageStatus": "No direct image assigned yet; photo lookup link retained. Uncapped status does not prevent image assignment.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Ritik%20Tada%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Ritik Tada — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "No direct, candidate-specific image URL verified yet. Use the photo lookup link; do not substitute a different player."
+    },
+    {
+      "playerName": "Robin Minz",
+      "slug": "robin-minz",
+      "targetAssetPath": "player-images/robin-minz.webp",
+      "imageUrl": "https://www.panthalassanews.com/assets/images/biography/thumb/robin-minz_image.jpg",
+      "imageSourcePage": "https://www.panthalassanews.com/",
+      "imageProvider": "Panthalassa News",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Robin%20Minz%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Robin Minz — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Romario Shepherd",
+      "slug": "romario-shepherd",
+      "targetAssetPath": "player-images/romario-shepherd.webp",
+      "imageUrl": "https://www.wisden.com/static-assets/images/players/66243.png?v=23.77",
+      "imageSourcePage": "https://wisden.com/players/romario-shepherd-66243",
+      "imageProvider": "Wisden",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Romario%20Shepherd%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Romario Shepherd — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "RS Ambrish",
+      "slug": "rs-ambrish",
+      "targetAssetPath": "player-images/rs-ambrish.webp",
+      "imageUrl": "https://gumlet-images.assettype.com/dt-next/2026-05-01/ujfhibj5/RS-Ambrish.jpg?auto=format%2Ccompress&fit=max&w=1024",
+      "imageSourcePage": "https://www.dtnext.in/",
+      "imageProvider": "DT Next",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20RS%20Ambrish%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "RS Ambrish — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Ruchit Ahir",
+      "slug": "ruchit-ahir",
+      "targetAssetPath": "player-images/ruchit-ahir.webp",
+      "imageUrl": "https://www.mumbaiindians.com/static-assets/images/players/large/action-shots/94913.png?v=4.16&w=400",
+      "imageSourcePage": "https://www.mumbaiindians.com/",
+      "imageProvider": "Mumbai Indians",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Ruchit%20Ahir%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Ruchit Ahir — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Ryan Burl",
+      "slug": "ryan-burl",
+      "targetAssetPath": "player-images/ryan-burl.webp",
+      "imageUrl": "https://www.wisden.com/static-assets/images/players/58070.png?v=23.77",
+      "imageSourcePage": "https://www.wisden.com/players/ryan-burl-58070",
+      "imageProvider": "Wisden",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Ryan%20Burl%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Ryan Burl — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Salman Nizar",
+      "slug": "salman-nizar",
+      "targetAssetPath": "player-images/salman-nizar.webp",
+      "imageUrl": "https://www.theweek.in/content/dam/week/week/news/sports/images/2025/8/30/salmannizarmanorama.jpg",
+      "imageSourcePage": "https://www.theweek.in/",
+      "imageProvider": "The Week",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Salman%20Nizar%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Salman Nizar — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Sanat Sangwan",
+      "slug": "sanat-sangwan",
+      "targetAssetPath": "player-images/sanat-sangwan.webp",
+      "imageUrl": "https://images.indianexpress.com/2025/10/sanat-sangwan-express-photo.jpg",
+      "imageSourcePage": "https://indianexpress.com/",
+      "imageProvider": "The Indian Express",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Sanat%20Sangwan%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Sanat Sangwan — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Sandeep Sharma",
+      "slug": "sandeep-sharma",
+      "targetAssetPath": "player-images/sandeep-sharma.webp",
+      "imageUrl": "https://documents.iplt20.com/ipl/IPLHeadshot2026/220.png",
+      "imageSourcePage": "https://www.iplt20.com/",
+      "imageProvider": "IPL",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Sandeep%20Sharma%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Sandeep Sharma — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Sanvir Singh",
+      "slug": "sanvir-singh",
+      "targetAssetPath": "player-images/sanvir-singh.webp",
+      "imageUrl": "https://images.mykhel.com/webp/images/cricket/players/2/13672.jpg?v=6",
+      "imageSourcePage": "https://www.mykhel.com/",
+      "imageProvider": "MyKhel",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Sanvir%20Singh%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Sanvir Singh — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Sarfaraz Khan",
+      "slug": "sarfaraz-khan",
+      "targetAssetPath": "player-images/sarfaraz-khan.webp",
+      "imageUrl": "https://images.mykhel.com/webp/images/cricket/players/1/7111.jpg?v=5",
+      "imageSourcePage": "https://www.mykhel.com/cricket/players/sarfaraz-khan-ipl-p7111/",
+      "imageProvider": "MyKhel",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Sarfaraz%20Khan%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Sarfaraz Khan — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Sarthak Ranjan",
+      "slug": "sarthak-ranjan",
+      "targetAssetPath": "player-images/sarthak-ranjan.webp",
+      "imageUrl": "https://pbs.twimg.com/media/G8S5wdia4Ak-nQS.jpg",
+      "imageSourcePage": "https://x.com/",
+      "imageProvider": "X",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Sarthak%20Ranjan%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Sarthak Ranjan — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Saurabh Netravalkar",
+      "slug": "saurabh-netravalkar",
+      "targetAssetPath": "player-images/saurabh-netravalkar.webp",
+      "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto%2Ct_ds_square_w_640%2Cq_50/lsci/db/PICTURES/CMS/383200/383213.png",
+      "imageSourcePage": "https://www.espncricinfo.com/cricketers/saurabh-netravalkar-398513",
+      "imageProvider": "ESPNcricinfo",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Saurabh%20Netravalkar%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Saurabh Netravalkar — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Scott Edwards",
+      "slug": "scott-edwards",
+      "targetAssetPath": "player-images/scott-edwards.webp",
+      "imageUrl": "https://static-files.cricket-australia.pulselive.com/headshots/440/2250-camedia.png",
+      "imageSourcePage": "https://www.cricket.com.au/",
+      "imageProvider": "Cricket Australia",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Scott%20Edwards%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Scott Edwards — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Sean Abbott",
+      "slug": "sean-abbott",
+      "targetAssetPath": "player-images/sean-abbott.webp",
+      "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto%2Ct_ds_square_w_640%2Cq_50/lsci/db/PICTURES/CMS/321600/321601.png",
+      "imageSourcePage": "https://www.espncricinfo.com/cricketers/sean-abbott-398666",
+      "imageProvider": "ESPNcricinfo",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Sean%20Abbott%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Sean Abbott — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Sediqullah Atal",
+      "slug": "sediqullah-atal",
+      "targetAssetPath": "player-images/sediqullah-atal.webp",
+      "imageUrl": "https://www.wisden.com/static-assets/images/players/70227.png?v=23.77",
+      "imageSourcePage": "https://www.wisden.com/",
+      "imageProvider": "Wisden",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Sediqullah%20Atal%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Sediqullah Atal — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Shahbaz Ahmed",
+      "slug": "shahbaz-ahmed",
+      "targetAssetPath": "player-images/shahbaz-ahmed.webp",
+      "imageUrl": "https://www.wisden.com/static-assets/images/players/58223.png?v=23.77",
+      "imageSourcePage": "https://www.wisden.com/",
+      "imageProvider": "Wisden",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Shahbaz%20Ahmed%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Shahbaz Ahmed — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Shahrukh Khan",
+      "slug": "shahrukh-khan",
+      "targetAssetPath": "player-images/shahrukh-khan.webp",
+      "imageUrl": "https://documents.iplt20.com/ipl/IPLHeadshot2026/590.png?v=1.28",
+      "imageSourcePage": "https://www.iplt20.com/",
+      "imageProvider": "IPL",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Shahrukh%20Khan%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Shahrukh Khan — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Shai Hope",
+      "slug": "shai-hope",
+      "targetAssetPath": "player-images/shai-hope.webp",
+      "imageUrl": "https://static.cricbuzz.com/a/img/v1/i1/c845520/shai-hope.jpg?d=low&p=gthumb",
+      "imageSourcePage": "https://www.cricbuzz.com/profiles/8422/shai-hope",
+      "imageProvider": "Cricbuzz",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.cricbuzz.com/profiles/10384/shai-hope",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Shai Hope — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Shimron Hetmyer",
+      "slug": "shimron-hetmyer",
+      "targetAssetPath": "player-images/shimron-hetmyer.webp",
+      "imageUrl": "https://www.wisden.com/static-assets/images/players/64861.png?v=23.53",
+      "imageSourcePage": "https://wisden.com/players/shimron-odilon-hetmyer-64861",
+      "imageProvider": "Wisden",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Shimron%20Hetmyer%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Shimron Hetmyer — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Shivam Shukla",
+      "slug": "shivam-shukla",
+      "targetAssetPath": "player-images/shivam-shukla.webp",
+      "imageUrl": "https://mpleaguet20.com/img/players/rewa-jaguars-2025/shivam-shukla.png",
+      "imageSourcePage": "https://mpleaguet20.com/",
+      "imageProvider": "MP League T20",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Shivam%20Shukla%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Shivam Shukla — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Shreyas Gopal",
+      "slug": "shreyas-gopal",
+      "targetAssetPath": "player-images/shreyas-gopal.webp",
+      "imageUrl": "https://d2l63a9diffym2.cloudfront.net/players/22HrSveENn3TNf22pyFEglQt2jGscq87DGes7Ivj.jpeg",
+      "imageSourcePage": "https://www.cricket.com/",
+      "imageProvider": "Cricket.com",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Shreyas%20Gopal%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Shreyas Gopal — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Siddharth Yadav",
+      "slug": "siddharth-yadav",
+      "targetAssetPath": "player-images/siddharth-yadav.webp",
+      "imageUrl": "https://gorakhpurlions.com/images/team-season-2/Siddharth-Yadav-Batsman.jpg",
+      "imageSourcePage": "https://gorakhpurlions.com/",
+      "imageProvider": "Gorakhpur Lions",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Siddharth%20Yadav%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Siddharth Yadav — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Simarjeet Singh",
+      "slug": "simarjeet-singh",
+      "targetAssetPath": "player-images/simarjeet-singh.webp",
+      "imageUrl": "https://www.iplbetonline.in/wp-content/uploads/2023/04/622.png",
+      "imageSourcePage": "https://www.iplbetonline.in/simarjeet-singh/",
+      "imageProvider": "IPL Bet Online",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Simarjeet%20Singh%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Simarjeet Singh — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Spencer Johnson",
+      "slug": "spencer-johnson",
+      "targetAssetPath": "player-images/spencer-johnson.webp",
+      "imageUrl": "https://www.gujarattitansipl.com/static-assets/images/players/67778.png?v=6.55",
+      "imageSourcePage": "https://www.gujarattitansipl.com/players/spencer-johnson-67778-profile",
+      "imageProvider": "Gujarat Titans",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Spencer%20Johnson%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Spencer Johnson — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Swastik Chikara",
+      "slug": "swastik-chikara",
+      "targetAssetPath": "player-images/swastik-chikara.webp",
+      "imageUrl": "https://static.toiimg.com/photo/120897575.cms",
+      "imageSourcePage": "https://timesofindia.indiatimes.com/",
+      "imageProvider": "Times of India",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Swastik%20Chikara%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Swastik Chikara — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Tanay Thyagarajan",
+      "slug": "tanay-thyagarajan",
+      "targetAssetPath": "player-images/tanay-thyagarajan.webp",
+      "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto%2Ct_ds_square_w_640%2Cq_50/lsci/db/PICTURES/CMS/381300/381375.png",
+      "imageSourcePage": "https://www.espncricinfo.com/",
+      "imageProvider": "ESPNcricinfo",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Tanay%20Thyagarajan%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Tanay Thyagarajan — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Tanush Kotian",
+      "slug": "tanush-kotian",
+      "targetAssetPath": "player-images/tanush-kotian.webp",
+      "imageUrl": "https://www.rajasthanroyals.com/static-assets/images/players/67907.png?v=7.52",
+      "imageSourcePage": "https://www.rajasthanroyals.com/",
+      "imageProvider": "Rajasthan Royals",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Tanush%20Kotian%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Tanush Kotian — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Taskin Ahmed",
+      "slug": "taskin-ahmed",
+      "targetAssetPath": "player-images/taskin-ahmed.webp",
+      "imageUrl": "https://www.wisden.com/static-assets/images/players/58314.png?v=23.53",
+      "imageSourcePage": "https://www.wisden.com/",
+      "imageProvider": "Wisden",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Taskin%20Ahmed%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Taskin Ahmed — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Tejas Baroka",
+      "slug": "tejas-baroka",
+      "targetAssetPath": "player-images/tejas-baroka.webp",
+      "imageUrl": null,
+      "imageSourcePage": null,
+      "imageProvider": null,
+      "photoMatchStatus": "Photo lookup pending — no direct image URL verified yet",
+      "usageStatus": "No direct image assigned yet; photo lookup link retained. Uncapped status does not prevent image assignment.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Tejas%20Baroka%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Tejas Baroka — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "No direct, candidate-specific image URL verified yet. Use the photo lookup link; do not substitute a different player."
+    },
+    {
+      "playerName": "Thomas Rew",
+      "slug": "thomas-rew",
+      "targetAssetPath": "player-images/thomas-rew.webp",
+      "imageUrl": null,
+      "imageSourcePage": null,
+      "imageProvider": null,
+      "photoMatchStatus": "Photo lookup pending — no direct image URL verified yet",
+      "usageStatus": "No direct image assigned yet; photo lookup link retained. Uncapped status does not prevent image assignment.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Thomas%20Rew%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Thomas Rew — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "No direct, candidate-specific image URL verified yet. Use the photo lookup link; do not substitute a different player."
+    },
+    {
+      "playerName": "Tim Ward",
+      "slug": "tim-ward",
+      "targetAssetPath": "player-images/tim-ward.webp",
+      "imageUrl": "https://static-files.cricket-australia.pulselive.com/headshots/440/4200-shield.png",
+      "imageSourcePage": "https://www.cricket.com.au/",
+      "imageProvider": "Cricket Australia",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Tim%20Ward%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Tim Ward — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Trent Boult",
+      "slug": "trent-boult",
+      "targetAssetPath": "player-images/trent-boult.webp",
+      "imageUrl": "https://documents.iplt20.com/ipl/IPLHeadshot2025/66.png",
+      "imageSourcePage": "https://www.iplt20.com/",
+      "imageProvider": "IPL",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Trent%20Boult%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Trent Boult — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Tripurana Vijay",
+      "slug": "tripurana-vijay",
+      "targetAssetPath": "player-images/tripurana-vijay.webp",
+      "imageUrl": "https://img.ipl.com/upload/20251106/d258c9034cf58532b81f33ca417fa8b3.jpg",
+      "imageSourcePage": "https://www.ipl.com/",
+      "imageProvider": "IPL.com",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Tripurana%20Vijay%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Tripurana Vijay — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Tushar Raheja",
+      "slug": "tushar-raheja",
+      "targetAssetPath": "player-images/tushar-raheja.webp",
+      "imageUrl": "https://tnpl-test.s3.ap-south-1.amazonaws.com/playerimages/Tushar%20Raheja%20R.png",
+      "imageSourcePage": "https://tnpl.cricket/stats/2025",
+      "imageProvider": "Tamil Nadu Premier League",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Tushar%20Raheja%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Tushar Raheja — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Umran Malik",
+      "slug": "umran-malik",
+      "targetAssetPath": "player-images/umran-malik.webp",
+      "imageUrl": "player-images/umran-malik.webp",
+      "imageSourcePage": null,
+      "imageProvider": "User-supplied image",
+      "photoMatchStatus": "Corrected — exact image supplied by user",
+      "usageStatus": "User-supplied local asset; user states they have permission for project use.",
+      "photoLookupUrl": "player-images/umran-malik.webp",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Umran Malik — player portrait supplied by user",
+      "localFileCreated": true,
+      "notes": "Replaced the incorrect remote photo with the exact image uploaded by the user. Local asset path: player-images/umran-malik.webp."
+    },
+    {
+      "playerName": "Utkarsh Singh",
+      "slug": "utkarsh-singh",
+      "targetAssetPath": "player-images/utkarsh-singh.webp",
+      "imageUrl": "https://images.mykhel.com/webp/images/cricket/players/8/11078.jpg?v=6",
+      "imageSourcePage": "https://www.mykhel.com/",
+      "imageProvider": "MyKhel",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Utkarsh%20Singh%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Utkarsh Singh — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Vaibhav Arora",
+      "slug": "vaibhav-arora",
+      "targetAssetPath": "player-images/vaibhav-arora.webp",
+      "imageUrl": "https://www.iplt20.com/_next/image?q=75&url=%2Fapi%2Fteam-assets%3Fpathname%3Dplayer%252F8903%252F1873%252F72965.png%26brand%3Dipl&w=750",
+      "imageSourcePage": "https://www.iplt20.com/teams/kolkata-knight-riders",
+      "imageProvider": "IPL.com",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded; verify it loads during final website QA. Remote source, local file not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Vaibhav%20Arora%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Vaibhav Arora — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved. Image found in a targeted player-image search; verify display in gallery."
+    },
+    {
+      "playerName": "Vansh Bedi",
+      "slug": "vansh-bedi",
+      "targetAssetPath": "player-images/vansh-bedi.webp",
+      "imageUrl": null,
+      "imageSourcePage": null,
+      "imageProvider": null,
+      "photoMatchStatus": "Photo lookup pending — no direct image URL verified yet",
+      "usageStatus": "No direct image assigned yet; photo lookup link retained. Uncapped status does not prevent image assignment.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Vansh%20Bedi%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Vansh Bedi — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "No direct, candidate-specific image URL verified yet. Use the photo lookup link; do not substitute a different player."
+    },
+    {
+      "playerName": "Vedant Trivedi",
+      "slug": "vedant-trivedi",
+      "targetAssetPath": "player-images/vedant-trivedi.webp",
+      "imageUrl": null,
+      "imageSourcePage": null,
+      "imageProvider": null,
+      "photoMatchStatus": "Photo lookup pending — no direct image URL verified yet",
+      "usageStatus": "No direct image assigned yet; photo lookup link retained. Uncapped status does not prevent image assignment.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Vedant%20Trivedi%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Vedant Trivedi — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "No direct, candidate-specific image URL verified yet. Use the photo lookup link; do not substitute a different player."
+    },
+    {
+      "playerName": "Vihaan Malhotra",
+      "slug": "vihaan-malhotra",
+      "targetAssetPath": "player-images/vihaan-malhotra.webp",
+      "imageUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202601/vihaan-malhotra-171213708-16x9_0.jpg?VersionId=_K_E_Mh0_QzVergk..Aia8ZD65nEImZf",
+      "imageSourcePage": "https://www.indiatoday.in/",
+      "imageProvider": "India Today",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Vihaan%20Malhotra%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Vihaan Malhotra — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Vijay Shankar",
+      "slug": "vijay-shankar",
+      "targetAssetPath": "player-images/vijay-shankar.webp",
+      "imageUrl": "https://www.gujarattitansipl.com/static-assets/images/players/61738.png?v=6.57",
+      "imageSourcePage": "https://www.gujarattitansipl.com/",
+      "imageProvider": "Gujarat Titans",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded; verify it loads during final website QA. Remote source, local file not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Vijay%20Shankar%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Vijay Shankar — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved. Image found in a targeted player-image search; verify display in gallery."
+    },
+    {
+      "playerName": "Vijayakanth Viyaskanth",
+      "slug": "vijayakanth-viyaskanth",
+      "targetAssetPath": "player-images/vijayakanth-viyaskanth.webp",
+      "imageUrl": "https://im.rediff.com/1200-630/cricket/2024/apr/09srh-replace.jpg",
+      "imageSourcePage": "https://www.rediff.com/",
+      "imageProvider": "Rediff",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Vijayakanth%20Viyaskanth%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Vijayakanth Viyaskanth — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Vishal Nishad",
+      "slug": "vishal-nishad",
+      "targetAssetPath": "player-images/vishal-nishad.webp",
+      "imageUrl": "https://www.punjabkingsipl.in/static-assets/images/players/126819.png?v=6.37",
+      "imageSourcePage": "https://www.punjabkingsipl.in/",
+      "imageProvider": "Punjab Kings",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Vishal%20Nishad%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Vishal Nishad — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Wahidullah Zadran",
+      "slug": "wahidullah-zadran",
+      "targetAssetPath": "player-images/wahidullah-zadran.webp",
+      "imageUrl": "https://cricclubs.com/documentsRep/profilePics/63ca4d65-7fca-4e6e-b9e2-3997e7c69e40.jpeg",
+      "imageSourcePage": "https://cricclubs.com/Nepal/viewPlayer.do?clubId=1099950&playerId=5078608",
+      "imageProvider": "Cricket Association of Nepal",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded; verify it loads during final website QA. Remote source, local file not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Wahidullah%20Zadran%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Wahidullah Zadran — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved. Image found in a targeted player-image search; verify display in gallery."
+    },
+    {
+      "playerName": "Waqar Salamkheil",
+      "slug": "waqar-salamkheil",
+      "targetAssetPath": "player-images/waqar-salamkheil.webp",
+      "imageUrl": "https://www.seattleorcas.com/static-assets/waf-images/d5/c3/65/1-1/X6Z4FHc1tv.png?v=2.04&w=1024",
+      "imageSourcePage": "https://www.seattleorcas.com/news/seattle-orcas-sign-afghan-spin-wizard-waqar-salamkheil",
+      "imageProvider": "Seattle Orcas",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Waqar%20Salamkheil%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Waqar Salamkheil — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Wiaan Mulder",
+      "slug": "wiaan-mulder",
+      "targetAssetPath": "player-images/wiaan-mulder.webp",
+      "imageUrl": "https://www.wisden.com/static-assets/images/players/65525.png?v=23.77",
+      "imageSourcePage": "https://www.wisden.com/",
+      "imageProvider": "Wisden",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Wiaan%20Mulder%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Wiaan Mulder — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    },
+    {
+      "playerName": "Will Smeed",
+      "slug": "will-smeed",
+      "targetAssetPath": "player-images/will-smeed.webp",
+      "imageUrl": null,
+      "imageSourcePage": null,
+      "imageProvider": null,
+      "photoMatchStatus": "Photo lookup pending — no direct image URL verified yet",
+      "usageStatus": "No direct image assigned yet; photo lookup link retained. Uncapped status does not prevent image assignment.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Will%20Smeed%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Will Smeed — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "No direct, candidate-specific image URL verified yet. Use the photo lookup link; do not substitute a different player."
+    },
+    {
+      "playerName": "William Sutherland",
+      "slug": "william-sutherland",
+      "targetAssetPath": "player-images/william-sutherland.webp",
+      "imageUrl": "https://static-files.cricket-australia.pulselive.com/headshots/440/1193-camedia.png",
+      "imageSourcePage": "https://www.cricket.com.au/players/CA%3A1193/will-sutherland",
+      "imageProvider": "Cricket Australia",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms required image permissions are secured.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20William%20Sutherland%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "William Sutherland — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Official Cricket Australia player profile and headshot. Candidate appears in the probable 2027 pool; image is assigned to this candidate only."
+    },
+    {
+      "playerName": "Yash Dhull",
+      "slug": "yash-dhull",
+      "targetAssetPath": "player-images/yash-dhull.webp",
+      "imageUrl": "https://thebridge.in/h-upload/2021/12/19/20443-yash-dhull.webp",
+      "imageSourcePage": "https://thebridge.in/",
+      "imageProvider": "The Bridge",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Yash%20Dhull%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Yash Dhull — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Yash Thakur",
+      "slug": "yash-thakur",
+      "targetAssetPath": "player-images/yash-thakur.webp",
+      "imageUrl": "https://pbs.twimg.com/media/Fsy2sQkaIAITcX5.jpg",
+      "imageSourcePage": "https://x.com/",
+      "imageProvider": "X",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Yash%20Thakur%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Yash Thakur — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Yudhvir Singh Charak",
+      "slug": "yudhvir-singh-charak",
+      "targetAssetPath": "player-images/yudhvir-singh-charak.webp",
+      "imageUrl": "https://documents.iplt20.com/ipl/IPLHeadshot2026/587.png",
+      "imageSourcePage": "https://www.iplt20.com/",
+      "imageProvider": "IPL",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "Direct image URL recorded. Confirm source URL loads during QA; locally downloaded asset not yet created.",
+      "photoLookupUrl": "https://www.google.com/search?tbm=isch&q=cricket%20player%20Yudhvir%20Singh%20Charak%20headshot",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Yudhvir Singh Charak — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Excluded by host rule: marked uncapped in candidate data. Show neutral placeholder in the auction UI until resolved."
+    },
+    {
+      "playerName": "Zak Crawley",
+      "slug": "zak-crawley",
+      "targetAssetPath": "player-images/zak-crawley.webp",
+      "imageUrl": "https://www.wisden.com/static-assets/images/players/67258.png?v=23.77",
+      "imageSourcePage": "https://www.wisden.com/players/zak-crawley-67258",
+      "imageProvider": "Wisden",
+      "photoMatchStatus": "Direct image assigned — source match found; visual QA recommended",
+      "usageStatus": "User confirms permission for this fan-made project; remote URL only; local file not downloaded yet.",
+      "photoLookupUrl": "https://www.cricbuzz.com/profiles/12770/crawley",
+      "teams": [],
+      "memberships": [
+        "2027 auction candidate pool"
+      ],
+      "altText": "Zak Crawley — cricket player portrait",
+      "localFileCreated": false,
+      "notes": "Remote image URL only; local file has not been downloaded."
+    }
+  ]
+}

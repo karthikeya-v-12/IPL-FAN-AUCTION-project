@@ -1,0 +1,15 @@
+IPL 2027 FAN-MADE AUCTION — QUICK START
+
+1. Install Node.js 18 or newer from https://nodejs.org/
+2. Extract this folder.
+3. On Windows, double-click START-WINDOWS.bat
+   or open a terminal in this folder and run: npm start
+4. Open http://localhost:3333
+5. Host access code for local testing: ipl2027owner
+
+IMPORTANT BEFORE PUBLIC HOSTING
+- Change HOST_ACCESS_CODE to a long private value in .env.
+- Use HTTPS and persistent, secure hosting.
+- The owner code is for local development only by default.
+- Player pool, releases, prices, trade values and purse values are a fan-made simulation model, not official IPL 2027 announcements.
+- Upload team audio in the app's Team Audio panel. No franchise audio files are included by default.

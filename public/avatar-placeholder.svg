@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 420">
+ <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#18293d"/><stop offset="1" stop-color="#09111c"/></linearGradient></defs>
+ <rect width="320" height="420" fill="url(#g)"/>
+ <circle cx="160" cy="144" r="70" fill="#25384b"/>
+ <circle cx="160" cy="129" r="36" fill="#405267"/>
+ <path d="M82 247c8-46 46-70 78-70s70 24 78 70v66H82z" fill="#405267"/>
+ <path d="M0 333h320v87H0z" fill="#0d1927"/>
+ <circle cx="272" cy="48" r="18" fill="#c6a66b" opacity=".85"/>
+ <path d="M264 45q8-7 16 0m-16 7q8 7 16 0" stroke="#f6e7c8" stroke-width="2" fill="none"/>
+ <text x="160" y="381" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" letter-spacing="3" fill="#91a4b9">PLAYER PHOTO</text>
+</svg>

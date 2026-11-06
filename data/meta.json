@@ -1,0 +1,384 @@
+{
+  "title": "IPL 2027 Fan-Made Auction Pool",
+  "generatedFrom": "latest workbook candidate list + candidate-only image manifest",
+  "candidateCount": 182,
+  "startingPurseRule": "2026 remaining purse + ₹5 Cr user add-on + reported net trade adjustment",
+  "removedReleaseCandidatesFromStartingSquads": 69,
+  "removedReleaseExamples": [
+    {
+      "franchise": "CSK",
+      "name": "Sarfaraz Khan"
+    },
+    {
+      "franchise": "CSK",
+      "name": "Shreyas Gopal"
+    },
+    {
+      "franchise": "CSK",
+      "name": "Aman Khan"
+    },
+    {
+      "franchise": "CSK",
+      "name": "Rahul Chahar"
+    },
+    {
+      "franchise": "CSK",
+      "name": "Khaleel Ahmed"
+    },
+    {
+      "franchise": "CSK",
+      "name": "Matt Short"
+    },
+    {
+      "franchise": "CSK",
+      "name": "Spencer Johnson"
+    },
+    {
+      "franchise": "CSK",
+      "name": "Akash Madhwal"
+    },
+    {
+      "franchise": "DC",
+      "name": "Prithvi Shaw"
+    },
+    {
+      "franchise": "DC",
+      "name": "Auqib Nabi"
+    },
+    {
+      "franchise": "DC",
+      "name": "Tripurana Vijay"
+    },
+    {
+      "franchise": "DC",
+      "name": "Ajay Mandal"
+    },
+    {
+      "franchise": "DC",
+      "name": "Mukesh Kumar"
+    },
+    {
+      "franchise": "GT",
+      "name": "Shahrukh Khan"
+    },
+    {
+      "franchise": "GT",
+      "name": "Nishant Sindhu"
+    },
+    {
+      "franchise": "GT",
+      "name": "Jayant Yadav"
+    },
+    {
+      "franchise": "GT",
+      "name": "Ishant Sharma"
+    },
+    {
+      "franchise": "GT",
+      "name": "Kulwant Khejroliya"
+    },
+    {
+      "franchise": "KKR",
+      "name": "Daksh Kamra"
+    },
+    {
+      "franchise": "KKR",
+      "name": "Sarthak Ranjan"
+    },
+    {
+      "franchise": "KKR",
+      "name": "Prashant Solanki"
+    },
+    {
+      "franchise": "KKR",
+      "name": "Kartik Tyagi"
+    },
+    {
+      "franchise": "KKR",
+      "name": "Umran Malik"
+    },
+    {
+      "franchise": "KKR",
+      "name": "Vaibhav Arora"
+    },
+    {
+      "franchise": "KKR",
+      "name": "Navdeep Saini"
+    },
+    {
+      "franchise": "KKR",
+      "name": "Cameron Green"
+    },
+    {
+      "franchise": "LSG",
+      "name": "Himmat Singh"
+    },
+    {
+      "franchise": "LSG",
+      "name": "Akshat Raghuwanshi"
+    },
+    {
+      "franchise": "LSG",
+      "name": "Arshin Kulkarni"
+    },
+    {
+      "franchise": "LSG",
+      "name": "Shahbaz Ahmed"
+    },
+    {
+      "franchise": "LSG",
+      "name": "Mohammed Shami"
+    },
+    {
+      "franchise": "LSG",
+      "name": "Naman Tiwari"
+    },
+    {
+      "franchise": "LSG",
+      "name": "Anrich Nortje"
+    },
+    {
+      "franchise": "LSG",
+      "name": "Nicholas Pooran"
+    },
+    {
+      "franchise": "MI",
+      "name": "Robin Minz"
+    },
+    {
+      "franchise": "MI",
+      "name": "Mahipal Lomror"
+    },
+    {
+      "franchise": "MI",
+      "name": "Raghu Sharma"
+    },
+    {
+      "franchise": "MI",
+      "name": "Trent Boult"
+    },
+    {
+      "franchise": "MI",
+      "name": "Deepak Chahar"
+    },
+    {
+      "franchise": "MI",
+      "name": "Mayank Markande"
+    },
+    {
+      "franchise": "MI",
+      "name": "Danish Malewar"
+    },
+    {
+      "franchise": "MI",
+      "name": "Ruchit Ahir"
+    },
+    {
+      "franchise": "MI",
+      "name": "Krish Bhagat"
+    },
+    {
+      "franchise": "MI",
+      "name": "Mayank Rawat"
+    },
+    {
+      "franchise": "PBKS",
+      "name": "Nehal Wadhera"
+    },
+    {
+      "franchise": "PBKS",
+      "name": "Marco Jansen"
+    },
+    {
+      "franchise": "PBKS",
+      "name": "Pyala Avinash"
+    },
+    {
+      "franchise": "PBKS",
+      "name": "Lockie Ferguson"
+    },
+    {
+      "franchise": "PBKS",
+      "name": "Yash Thakur"
+    },
+    {
+      "franchise": "PBKS",
+      "name": "Pravin Dubey"
+    },
+    {
+      "franchise": "PBKS",
+      "name": "Vishal Nishad"
+    },
+    {
+      "franchise": "RR",
+      "name": "Sandeep Sharma"
+    },
+    {
+      "franchise": "RR",
+      "name": "Shimron Hetmyer"
+    },
+    {
+      "franchise": "RR",
+      "name": "Yudhvir Charak"
+    },
+    {
+      "franchise": "RR",
+      "name": "Ravi Bishnoi"
+    },
+    {
+      "franchise": "RR",
+      "name": "Kuldeep Sen"
+    },
+    {
+      "franchise": "RR",
+      "name": "Adam Milne"
+    },
+    {
+      "franchise": "RCB",
+      "name": "Romario Shepherd"
+    },
+    {
+      "franchise": "RCB",
+      "name": "Mangesh Yadav"
+    },
+    {
+      "franchise": "RCB",
+      "name": "Vihaan Malhotra"
+    },
+    {
+      "franchise": "SRH",
+      "name": "Pat Cummins"
+    },
+    {
+      "franchise": "SRH",
+      "name": "Harshal Patel"
+    },
+    {
+      "franchise": "SRH",
+      "name": "Jaydev Unadkat"
+    },
+    {
+      "franchise": "SRH",
+      "name": "Liam Livingstone"
+    },
+    {
+      "franchise": "CSK",
+      "name": "Macneil Noronha"
+    },
+    {
+      "franchise": "GT",
+      "name": "Connor Esterhuizen"
+    },
+    {
+      "franchise": "CSK",
+      "name": "Dian Forrester"
+    },
+    {
+      "franchise": "CSK",
+      "name": "Kuldip Yadav"
+    },
+    {
+      "franchise": "MI",
+      "name": "Keshav Maharaj"
+    }
+  ],
+  "note": "This is a fan-made simulator baseline. 2027 registration, retention, release, trade accounting and salaries are provisional and configurable.",
+  "removedAuctionPoolCandidatesFromStartingSquads": 74,
+  "startingSquadRule": "Any player in the auction candidate pool is removed from the working squad seed so no candidate is simultaneously listed as already owned and available to bid on.",
+  "removedCandidatesByTeam": {
+    "CSK": [
+      "Sarfaraz Khan",
+      "Shreyas Gopal",
+      "Aman Khan",
+      "Rahul Chahar",
+      "Khaleel Ahmed",
+      "Matt Short",
+      "Spencer Johnson",
+      "Akash Madhwal",
+      "Macneil Noronha",
+      "Dian Forrester",
+      "Kuldip Yadav"
+    ],
+    "DC": [
+      "Prithvi Shaw",
+      "Auqib Nabi",
+      "Tripurana Vijay",
+      "Ajay Mandal",
+      "Mukesh Kumar"
+    ],
+    "GT": [
+      "Shahrukh Khan",
+      "Nishant Sindhu",
+      "Jayant Yadav",
+      "Ishant Sharma",
+      "Kulwant Khejroliya",
+      "Connor Esterhuizen"
+    ],
+    "KKR": [
+      "Daksh Kamra",
+      "Sarthak Ranjan",
+      "Prashant Solanki",
+      "Kartik Tyagi",
+      "Umran Malik",
+      "Vaibhav Arora",
+      "Navdeep Saini",
+      "Cameron Green"
+    ],
+    "LSG": [
+      "Himmat Singh",
+      "Akshat Raghuwanshi",
+      "Arshin Kulkarni",
+      "Shahbaz Ahmed",
+      "Mohammed Shami",
+      "Naman Tiwari",
+      "Anrich Nortje",
+      "Nicholas Pooran"
+    ],
+    "MI": [
+      "Robin Minz",
+      "Mahipal Lomror",
+      "Raghu Sharma",
+      "Trent Boult",
+      "Deepak Chahar",
+      "Mayank Markande",
+      "Danish Malewar",
+      "Ruchit Ahir",
+      "Krish Bhagat",
+      "Mayank Rawat",
+      "Keshav Maharaj"
+    ],
+    "PBKS": [
+      "Nehal Wadhera",
+      "Marco Jansen",
+      "Pyala Avinash",
+      "Lockie Ferguson",
+      "Yash Thakur",
+      "Pravin Dubey",
+      "Vishal Nishad"
+    ],
+    "RR": [
+      "Dasun Shanaka",
+      "Sandeep Sharma",
+      "Shimron Hetmyer",
+      "Yudhvir Charak",
+      "Ravi Bishnoi",
+      "Kuldeep Sen",
+      "Adam Milne"
+    ],
+    "RCB": [
+      "Romario Shepherd",
+      "Mangesh Yadav",
+      "Vihaan Malhotra",
+      "Kanishk Chouhan",
+      "Richard Gleeson"
+    ],
+    "SRH": [
+      "Pat Cummins",
+      "Harshal Patel",
+      "Jaydev Unadkat",
+      "Liam Livingstone",
+      "Gerald Coetzee",
+      "RS Ambrish"
+    ]
+  }
+}

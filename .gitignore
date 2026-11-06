@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+
+# Environment variables & secrets
+.env
+.env.*
+!.env.example
+
+# Runtime & local auction state (ephemeral)
+data/active-room-state.json
+uploads/
+
+# Backups and intermediate fix files
+*.backup*
+*.bak*
+*.pre-fix-backup
+*.before-*
+*.orig
+*.task-backup
+*-backup*
+screenshots/
+public/player-images/test-star-*
+public/audio/custom/
+
+# Test logs & temporary outputs
+*.log
+*.tmp
+*result*.txt
+race-test-output.log
+server-test.log
+smoke-test-output.log
+
+# Tool/Agent caches
+.kiro/
+.agents/
+test_extract/
+*.zip
+/ipl_10_team_logos_black_1024/ipl2027-auction-app-v1.0.6-triumph-fixed/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
